@@ -3,6 +3,9 @@ package com.bank.account;
 import java.math.BigDecimal;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
+/*
+    Added by Kapil
+ */
 public class Account {
 
     private String accountId;
